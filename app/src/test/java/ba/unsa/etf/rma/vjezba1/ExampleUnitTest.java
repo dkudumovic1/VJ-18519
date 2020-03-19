@@ -1,4 +1,4 @@
-package ba.unsa.etf.rma.vj_18519;
+package ba.unsa.etf.rma.vjezba1;
 
 import org.junit.Test;
 

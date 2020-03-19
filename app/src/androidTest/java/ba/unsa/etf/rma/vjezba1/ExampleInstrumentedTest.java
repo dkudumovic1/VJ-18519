@@ -1,4 +1,4 @@
-package ba.unsa.etf.rma.vj_18519;
+package ba.unsa.etf.rma.vjezba1;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("ba.unsa.etf.rma.vj_18519", appContext.getPackageName());
+        assertEquals("ba.unsa.etf.rma.vjezba1", appContext.getPackageName());
     }
 }
